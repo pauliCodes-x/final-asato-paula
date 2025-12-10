@@ -30,3 +30,7 @@ Luego abrir en el navegador:
 - http://localhost:8080
 
 ---
+
+## Captura del contenedor Docker en ejecución
+
+![Contenedor corriendo](images/img-examen-final.png)
