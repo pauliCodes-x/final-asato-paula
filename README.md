@@ -1,3 +1,4 @@
+## Cómo ejecutar el proyecto
 # Examen Final
 
 Una mini aplicación web que muestra datos del alumno.
